@@ -1,4 +1,4 @@
-# logger
+# py-logger
 
 ## 概要
 
